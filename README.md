@@ -1,0 +1,2 @@
+# hadoop
+Druid hadoop image
